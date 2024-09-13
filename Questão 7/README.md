@@ -1,4 +1,4 @@
-#Questão 7
+# QUESTÃO 7
 ## 1 - Explique o conceito de transação em um banco de dados e dê um exemplo onde se aplica o uso de transações
 O conceito de transaçõe é que são processos que fazem a execução de operações de um banco de dados, garantindo que essas operações sejam executadas de formas consistentes e e isoladas.
 Um dos seus principais usos são em bancos para realizar transferencias.
